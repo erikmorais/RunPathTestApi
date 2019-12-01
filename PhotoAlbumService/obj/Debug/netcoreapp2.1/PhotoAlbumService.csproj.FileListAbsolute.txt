@@ -1,0 +1,12 @@
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\bin\Debug\netcoreapp2.1\PhotoAlbumService.deps.json
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\bin\Debug\netcoreapp2.1\PhotoAlbumService.dll
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\bin\Debug\netcoreapp2.1\PhotoAlbumService.pdb
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\bin\Debug\netcoreapp2.1\ServicesContract.dll
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\bin\Debug\netcoreapp2.1\ServicesContract.pdb
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.csprojAssemblyReference.cache
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.csproj.CoreCompileInputs.cache
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.AssemblyInfoInputs.cache
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.AssemblyInfo.cs
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.csproj.CopyComplete
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.dll
+C:\AppTestsToDelivery\RunPathTestApi\PhotoAlbumService\obj\Debug\netcoreapp2.1\PhotoAlbumService.pdb

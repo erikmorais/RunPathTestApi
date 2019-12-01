@@ -1,0 +1,8 @@
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\bin\Debug\netcoreapp2.1\ServicesContract.deps.json
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\bin\Debug\netcoreapp2.1\ServicesContract.dll
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\bin\Debug\netcoreapp2.1\ServicesContract.pdb
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\obj\Debug\netcoreapp2.1\ServicesContract.csproj.CoreCompileInputs.cache
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\obj\Debug\netcoreapp2.1\ServicesContract.AssemblyInfoInputs.cache
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\obj\Debug\netcoreapp2.1\ServicesContract.AssemblyInfo.cs
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\obj\Debug\netcoreapp2.1\ServicesContract.dll
+C:\AppTestsToDelivery\RunPathTestApi\ServicesContract\obj\Debug\netcoreapp2.1\ServicesContract.pdb
