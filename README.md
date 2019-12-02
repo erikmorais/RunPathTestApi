@@ -7,7 +7,7 @@ https://localhost:44381/api/photoAlbums
 Returning all Albums merged with photos by user ID:
 https://localhost:44381/api/photoAlbums/5
 
-# Important points:
+# Important points
 Web Api 2.0 Core dot net.
 
 It uses Solid Principles for TDD dev Approach.
